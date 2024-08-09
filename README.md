@@ -1,0 +1,1 @@
+This project implements a weather prediction model using Long Short-Term Memory (LSTM) networks. The model is trained on historical weather data to predict future weather conditions such as temperature, humidity, and precipitation. The project is coded in Python, utilizing libraries like TensorFlow, Keras, Pandas, and NumPy.
